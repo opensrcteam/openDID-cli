@@ -10,3 +10,4 @@
     - wallet 생성 (with 비밀번호)
     - wallet에 keyId 별 키쌍 생성
     - DID Doc 생성
+    - 파일 두개를 관리자가 수집
